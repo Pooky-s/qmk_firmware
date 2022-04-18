@@ -3,8 +3,6 @@
 
 #pragma once
 
-#define LAYOUT_custom_49keys KEYMAP_ANSI
-
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
